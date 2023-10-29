@@ -35,3 +35,9 @@ changing needs of the film business.
 
 Coloboratory File link: https://colab.research.google.com/drive/1FnivPLA-4w7Rj3Cy4xsV-qiMCmKkHJZu?usp=sharing
 
+CONCLUSION
+We will keep growing and enhancing and also improving this project, open to 
+new data sources , leading advancements in field of data science and the film 
+industry . it is lot more than jut a prediction model - its a data which 
+demonstrates what drives us for movies.
+
