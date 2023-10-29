@@ -26,8 +26,12 @@ performance.
 Enrichment of the Audience: Give film buffs insightful information about the
 business to help them develop a greater appreciation and understanding of the
 film industry.
+
 User-Friendly Interface: Provide a user-friendly interface that allows both
 experts and amateurs to access and interact with the prediction model.
 Continuous Improvement: Add additional data sources for increased accuracy
 and update and improve the model on a regular basis to accommodate the
 changing needs of the film business.
+
+Coloboratory File link: https://colab.research.google.com/drive/1FnivPLA-4w7Rj3Cy4xsV-qiMCmKkHJZu?usp=sharing
+
