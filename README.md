@@ -1,4 +1,4 @@
-# MOVIE_BOX_OFFICE_PREDICTION
+# MOVIE_BOX_OFFICE_REVENUE_PREDICTION
 1. INTRODUCTION
 In this new world of Data Science, we wanted to create something special and
 unique. That’s when we came up with and idea of predicting how much a movie
